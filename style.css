@@ -5,7 +5,7 @@
 body{
     margin: 0;
     text-align: center;
-    background-color: #f3ede7;
+    background-color: white;
     font-family: 'Forum', cursive;
 }
 
@@ -13,6 +13,7 @@ hr{
     border-top: 10px dotted rgba(128, 128, 128, 0.3);
     width: 20%;
     margin: 15% auto 15% auto;
+    background-color: white;
 }
 
 .first-container{
@@ -23,7 +24,7 @@ hr{
     position: relative;
     height: 50%;
     width: 100%;
-    bottom: 350px;
+    bottom: 300px;
     z-index: -1;
 }
 
